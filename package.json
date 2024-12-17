@@ -1,0 +1,23 @@
+{
+  "name": "mern-auth",
+  "version": "1.0.0",
+  "description": "A mern auth app",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxnile/mern-auth.git"
+  },
+  "keywords": [
+    "Mern",
+    "auth"
+  ],
+  "author": "Nile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linuxnile/mern-auth/issues"
+  },
+  "homepage": "https://github.com/linuxnile/mern-auth#readme"
+}
